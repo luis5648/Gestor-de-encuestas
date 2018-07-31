@@ -1,0 +1,2 @@
+Cronometro$MiTarea
+Cronometro
